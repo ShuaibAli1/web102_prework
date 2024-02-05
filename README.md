@@ -24,6 +24,8 @@ The following **optional** features are implemented:
 
 Here's a quick overview of implemented features.
 
+https://github.com/ShuaibAli1/web102_prework/blob/master/walkthrough.gif
+
 
 GIF created with LICECap 
 ## Notes
